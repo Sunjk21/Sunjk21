@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sunjk21.
-- 👀 I’m interested in deep learning, computer security, and reliable AI.
-- 🌱 I’m currently a student at University of Science and Technology Beijing (USTB).
-- 💞️ I’m looking to collaborate on the one interested in malware detection and reliable AI.
-- 📫 How to reach me: sunjk21@outlook.com; sunjk@xs.ustb.edu.cn (email)
+- 👋 Hi, I’m Jiankun Sun.
+- 🌱 I received the Ph.D. degree in computer science and technology from the University of Science and Technology Beijing (USTB) at Beijing.
+- 👀 I’m interested in deep learning, cyber security, and responsible AI.
+- 💞️ I’m looking to collaborate with the ones interested in malware detection and responsible AI.
+- 📫 How to reach me: jiankun.s@outlook.com | mr.jiankunsun@gmail.com
 
 <!---
 Sunjk21/Sunjk21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
