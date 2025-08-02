@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jiankun Sun.
 - 🌱 I received the Ph.D. degree in computer science and technology from the University of Science and Technology Beijing (USTB) at Beijing.
 - 👀 I’m interested in deep learning, cyber security, and responsible AI.
-- 💞️ I’m looking to collaborate with the ones interested in malware detection and responsible AI.
 - 📫 How to reach me: jiankun.s@outlook.com | mr.jiankunsun@gmail.com
 
 <!---
